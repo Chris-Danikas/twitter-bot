@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "This is a twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Chris Danikas",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-schedule": "^1.3.2",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {}
+}
